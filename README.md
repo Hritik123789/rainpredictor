@@ -1,3 +1,4 @@
+RAIN PREDICTION MODEL:
 1]User Input & Feature Handling: The model collects user input for various weather features, distinguishing between numeric and categorical features. Numeric inputs are validated to ensure correctness, and all inputs are stored in a DataFrame for further processing.
 
 2]Preprocessing: Before making predictions, the input data is preprocessed using an imputer and a scaler for numeric columns. Categorical columns are encoded with an encoder to transform them into a suitable format for prediction.
